@@ -44,27 +44,29 @@
 
     <div class="row">
         <div class="large-text-center small-text-center medium-text-center large-12 small-12 medium-12 columns">
-            <h1>{About James}</h1>
+            <h1>{Contact James}</h1>
         </div>
+    </div>
+    <div class="row">
+        <div class="large-12 coloums">
+
+            <form id="contact_form" action="#" method="POST" enctype="multipart/form-data">
+                <div class="row">
+                    <label for="name">Your name:</label><br />
+                    <input id="name" class="input" name="name" type="text" value="" size="30" /><br />
+                </div>
+                <div class="row">
+                    <label for="email">Your email:</label><br />
+                    <input id="email" class="input" name="email" type="text" value="" size="30" /><br />
+                </div>
+                <div class="row">
+                    <label for="message">Your message:</label><br />
+                    <textarea id="message" class="input" name="message" rows="7" cols="30"></textarea><br />
+                </div>
+                <input id="submit_button" type="submit" value="Send email" />
+            </form>
         </div>
-        <div class="row">
-            <img src="img/10695241_10204136948120065_832863635_n.jpg" class="large-3 coloums left" />
-            <p class="text-center large-12 coloums">
-
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed semper purus. Quisque risus ligula, elementum a orci ut, efficitur commodo ante. Phasellus ac est eget ligula gravida hendrerit sed non libero. Vestibulum sollicitudin molestie elit, eget bibendum elit interdum vel. Praesent accumsan laoreet lorem nec tristique. In sed ultricies metus, sit amet feugiat sem. Integer tristique sem a erat ornare fermentum. Mauris mi tortor, bibendum at turpis quis, egestas congue odio. Curabitur vel elementum lorem, quis egestas leo.
-
-                Nunc elementum massa et ullamcorper sagittis. Praesent vel tempus augue. Donec hendrerit neque et ipsum feugiat, non aliquet nisi hendrerit. Pellentesque mollis odio at porta efficitur. Ut id arcu tempus, dignissim purus sed, finibus magna. Pellentesque eget condimentum lacus, ut molestie ligula. Nulla facilisi. Aliquam quis arcu pretium, tristique neque et, venenatis purus. Fusce pellentesque tortor in ante maximus pellentesque. Suspendisse nec volutpat massa, nec rhoncus erat. Nulla at elit enim.
-
-                Sed egestas mollis imperdiet. Vivamus sollicitudin leo sed lacus ullamcorper condimentum. Aliquam id metus libero. Duis quis varius nibh. Donec mattis eu nunc mattis convallis. Mauris mollis metus sed ipsum consequat aliquam. Donec cursus luctus nulla, euismod fermentum odio.
-
-                Morbi ac sollicitudin est, sit amet porttitor elit. Donec sollicitudin, lorem et tempus placerat, massa est condimentum tortor, non accumsan nunc nisi vitae mi. Maecenas finibus lorem et magna blandit ultrices. Fusce ac lectus sed libero fringilla luctus. In hac habitasse platea dictumst. Praesent rutrum interdum urna a semper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur lorem lectus, tincidunt non congue sed, tempor ut tellus. Aliquam erat volutpat. Quisque aliquet, ante non consectetur condimentum, ipsum augue laoreet dui, eget tincidunt nibh libero sed dolor. Morbi ut ligula consequat, facilisis massa at, tempus purus. Vestibulum dapibus turpis ut erat ultricies, sed efficitur purus ultricies. Mauris euismod aliquet justo, eget hendrerit risus eleifend lobortis. Nunc quis urna odio.
-
-                Sed feugiat sapien elit. Sed tellus sem, dignissim vitae neque ac, aliquam aliquam tortor. Ut congue a justo sollicitudin mattis. Proin a placerat sapien. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Duis quis nunc semper ipsum commodo maximus ac vel tortor. Nam id urna ut odio venenatis auctor ut eget elit. In tempus eget ipsum nec pellentesque.
-            </p>
-        </div>
-
-
-
+    </div>
 
     <hr />
 
@@ -116,4 +118,5 @@
         doc.setAttribute('data-useragent', navigator.userAgent);
     </script>
 </body>
+
 </html>

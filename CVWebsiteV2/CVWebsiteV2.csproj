@@ -58,15 +58,24 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="about.html" />
+    <Content Include="contact.html" />
     <Content Include="css\foundation.css" />
     <Content Include="css\foundation.min.css" />
     <Content Include="css\normalize.css" />
     <Content Include="humans.txt" />
     <Content Include="img\10695241_10204136948120065_832863635_n.jpg" />
     <Content Include="img\FacebookTop.png" />
+    <Content Include="img\FBHover.png" />
+    <Content Include="img\FBNormal.png" />
+    <Content Include="img\INHover.png" />
+    <Content Include="img\INNormal.png" />
     <Content Include="img\LinkedInTop.png" />
     <Content Include="img\MiniLogo.png" />
+    <Content Include="img\TwitterHover.png" />
+    <Content Include="img\TwitterNormal.png" />
     <Content Include="img\TwitterTop.png" />
+    <Content Include="img\YouTubeHover.png" />
+    <Content Include="img\YouTubeNormal.png" />
     <Content Include="img\YouTubeTop.png" />
     <Content Include="index.html" />
     <Content Include="js\foundation.min.js" />
@@ -92,7 +101,9 @@
     <Content Include="js\vendor\jquery.js" />
     <Content Include="js\vendor\modernizr.js" />
     <Content Include="js\vendor\placeholder.js" />
+    <Content Include="projects.html" />
     <Content Include="robots.txt" />
+    <Content Include="services.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
