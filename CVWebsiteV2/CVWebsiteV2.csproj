@@ -61,6 +61,12 @@
     <Content Include="css\foundation.min.css" />
     <Content Include="css\normalize.css" />
     <Content Include="humans.txt" />
+    <Content Include="img\10695241_10204136948120065_832863635_n.jpg" />
+    <Content Include="img\FacebookTop.png" />
+    <Content Include="img\LinkedInTop.png" />
+    <Content Include="img\MiniLogo.png" />
+    <Content Include="img\TwitterTop.png" />
+    <Content Include="img\YouTubeTop.png" />
     <Content Include="index %282%29.html" />
     <Content Include="index.html" />
     <Content Include="js\foundation.min.js" />
