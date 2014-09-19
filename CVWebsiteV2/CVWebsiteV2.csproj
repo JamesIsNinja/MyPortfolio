@@ -57,6 +57,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="about.html" />
     <Content Include="css\foundation.css" />
     <Content Include="css\foundation.min.css" />
     <Content Include="css\normalize.css" />
@@ -67,7 +68,6 @@
     <Content Include="img\MiniLogo.png" />
     <Content Include="img\TwitterTop.png" />
     <Content Include="img\YouTubeTop.png" />
-    <Content Include="index %282%29.html" />
     <Content Include="index.html" />
     <Content Include="js\foundation.min.js" />
     <Content Include="js\foundation\foundation.abide.js" />
