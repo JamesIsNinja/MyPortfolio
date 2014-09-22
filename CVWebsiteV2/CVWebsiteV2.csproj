@@ -101,9 +101,12 @@
     <Content Include="js\vendor\jquery.js" />
     <Content Include="js\vendor\modernizr.js" />
     <Content Include="js\vendor\placeholder.js" />
+    <Content Include="privacypolicy.html" />
     <Content Include="projects.html" />
     <Content Include="robots.txt" />
     <Content Include="services.html" />
+    <Content Include="thankyou.html" />
+    <Content Include="ToS.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -111,6 +114,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="img\.gitkeep" />
+    <Content Include="email.php" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
