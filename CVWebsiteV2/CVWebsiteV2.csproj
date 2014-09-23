@@ -107,6 +107,7 @@
     <Content Include="js\vendor\jquery.js" />
     <Content Include="js\vendor\modernizr.js" />
     <Content Include="js\vendor\placeholder.js" />
+    <Content Include="css\myCSS.css" />
     <Content Include="privacypolicy.html" />
     <Content Include="projects.html" />
     <Content Include="robots.txt" />

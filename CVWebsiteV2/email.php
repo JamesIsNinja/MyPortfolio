@@ -1,4 +1,6 @@
   <?PHP
+  
+  
 	//Very simple PHP email page, takes the users information, and sends an email to me, and the user. 
  	$to = "200203355@student.georgianc.on.ca";
     $name = $_POST['name']; 
