@@ -64,6 +64,7 @@
     <Content Include="css\normalize.css" />
     <Content Include="humans.txt" />
     <Content Include="img\10695241_10204136948120065_832863635_n.jpg" />
+    <Content Include="img\DB2.jpg" />
     <Content Include="img\FacebookTop.png" />
     <Content Include="img\FBHover.png" />
     <Content Include="img\FBNormal.png" />
